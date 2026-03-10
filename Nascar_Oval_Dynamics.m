@@ -15,7 +15,7 @@
 %                3. Wedge adjustment vs rear cross weight (handling balance)
 %
 %  Tools       : MATLAB
-%  GitHub      : github.com/[yourusername]/NASCAR-Oval-Dynamics
+%  GitHub      : github.com/aeliazar11/NASCAR-Oval-Dynamics
 %% =========================================================================
 
 %% --- HOUSEKEEPING ---
@@ -169,5 +169,6 @@ yline(53, 'b--', 'Tight Limit', 'LineWidth', 1.5);
 yline(47, 'g--', 'Loose Limit', 'LineWidth', 1.5);
 ylim([46 57]);
 grid on;
+
 
 %% --- END OF SCRIPT ---
